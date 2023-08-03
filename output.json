@@ -1,0 +1,122 @@
+[
+  {
+    "Ticker": "AAP",
+    "Company name": "Advance Auto Parts, Inc.",
+    "Latest price": 73.72,
+    "Price range of last 52 weeks": "63.58 - 209.98"
+  },
+  {
+    "Ticker": "AMT",
+    "Company name": "American Tower Corporation",
+    "Latest price": 191.24,
+    "Price range of last 52 weeks": "182.00 - 281.52"
+  },
+  {
+    "Ticker": "BMY",
+    "Company name": "Bristol-Myers Squibb Company",
+    "Latest price": 61.53,
+    "Price range of last 52 weeks": "60.73 - 81.13"
+  },
+  {
+    "Ticker": "CPB",
+    "Company name": "Campbell Soup Company",
+    "Latest price": 45.5,
+    "Price range of last 52 weeks": "44.86 - 57.55"
+  },
+  {
+    "Ticker": "CAG",
+    "Company name": "Conagra Brands, Inc.",
+    "Latest price": 32.57,
+    "Price range of last 52 weeks": "32.19 - 40.96"
+  },
+  {
+    "Ticker": "CCI",
+    "Company name": "Crown Castle Inc.",
+    "Latest price": 108.25,
+    "Price range of last 52 weeks": "107.00 - 184.14"
+  },
+  {
+    "Ticker": "D",
+    "Company name": "Dominion Energy, Inc.",
+    "Latest price": 52.3,
+    "Price range of last 52 weeks": "49.02 - 85.65"
+  },
+  {
+    "Ticker": "ENPH",
+    "Company name": "Enphase Energy, Inc.",
+    "Latest price": 150.32,
+    "Price range of last 52 weeks": "140.69 - 336.00"
+  },
+  {
+    "Ticker": "EL",
+    "Company name": "The Estée Lauder Companies Inc.",
+    "Latest price": 175.03,
+    "Price range of last 52 weeks": "172.50 - 281.62"
+  },
+  {
+    "Ticker": "ES",
+    "Company name": "Eversource Energy",
+    "Latest price": 70.35,
+    "Price range of last 52 weeks": "67.92 - 93.96"
+  },
+  {
+    "Ticker": "EXR",
+    "Company name": "Extra Space Storage Inc.",
+    "Latest price": 137.56,
+    "Price range of last 52 weeks": "136.85 - 215.05"
+  },
+  {
+    "Ticker": "FMC",
+    "Company name": "FMC Corporation",
+    "Latest price": 94.03,
+    "Price range of last 52 weeks": "92.63 - 134.36"
+  },
+  {
+    "Ticker": "GIS",
+    "Company name": "General Mills, Inc.",
+    "Latest price": 74.34,
+    "Price range of last 52 weeks": "74.31 - 90.61"
+  },
+  {
+    "Ticker": "MRNA",
+    "Company name": "Moderna, Inc.",
+    "Latest price": 113.94,
+    "Price range of last 52 weeks": "110.22 - 210.04"
+  },
+  {
+    "Ticker": "NDAQ",
+    "Company name": "Nasdaq, Inc.",
+    "Latest price": 50.24,
+    "Price range of last 52 weeks": "48.97 - 68.98"
+  },
+  {
+    "Ticker": "PFE",
+    "Company name": "Pfizer Inc.",
+    "Latest price": 35.61,
+    "Price range of last 52 weeks": "35.35 - 54.48"
+  },
+  {
+    "Ticker": "PSA",
+    "Company name": "Public Storage",
+    "Latest price": 279.35,
+    "Price range of last 52 weeks": "271.27 - 355.34"
+  },
+  {
+    "Ticker": "SBAC",
+    "Company name": "SBA Communications Corporation",
+    "Latest price": 228.1,
+    "Price range of last 52 weeks": "218.88 - 355.13"
+  },
+  {
+    "Ticker": "VFC",
+    "Company name": "V.F. Corporation",
+    "Latest price": 19.39,
+    "Price range of last 52 weeks": "17.02 - 47.92"
+  },
+  {
+    "Ticker": "WBA",
+    "Company name": "Walgreens Boots Alliance, Inc.",
+    "Latest price": 29.57,
+    "Price range of last 52 weeks": "28.37 - 42.04"
+  }
+]
